@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/architects_daughter</item>
+        <item>@font/bad_script</item>
+        <item>@font/bilbo_swash_caps</item>
+        <item>@font/syncopate</item>
+        <item>@font/trade_winds</item>
+        <item>@font/walter_turncoat</item>
+    </array>
+</resources>

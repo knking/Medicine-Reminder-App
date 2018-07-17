@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MedicineReminder</string>
+    <!--<string name="medicine_reminder">MEDICINE REMINDER</string>-->
+
+
+    <string name="medicine_reminder">MEDICINE REMINDER</string>
+    <!-- <string name="todo">TODO</string>-->
+    <string name="todo">TODO</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="select_time">SELECT TIME</string>
+
+
+</resources>
